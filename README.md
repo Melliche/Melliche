@@ -3,9 +3,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Melliche&count_private=true&theme=dark&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melliche&layout=compact&langs_count=10&theme=dark)
 
-# Devtime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Melliche&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Melliche/Melliche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
